@@ -1,5 +1,5 @@
 # Unshred Paper
-I got the inspiration for this project will actually shredding paper.
+I got the inspiration for this project while actually shredding paper.
 
 #### make_shreds.py
 The program make_shreds.py is used to digitally make shreds of images. Run
